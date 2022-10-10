@@ -1,6 +1,6 @@
 # DL-fashion_mnist1-Image-Classification-with-CNN-Project
 
-### [Go to Projects Page](https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Study-with-Python/blob/master/README.md)
+### [Go to Projects Page](https://github.com/celik-muhammed/15CS-Deep-Learning-Case-Studies-with-Python/blob/master/README.md)
 
 ## Visually Compare Models Performance In a Graph
 
