@@ -8,9 +8,10 @@
 
 <div align='center'>
 
-<img src='https://i.ibb.co/d6pLzNz/download.png' alt='' width=60%, height=300>
-<img src='https://i.ibb.co/rsbCCGH/download.png' alt='' width=90%, height=500>
-<img src='https://i.ibb.co/cc6y2sj/download.png' alt='' width=90%, height=500>
+<img src='https://i.ibb.co/nwF33kw/download.png' alt='' width=60%, height=300>
+<img src='https://i.ibb.co/wsqn2h7/download.png' alt='' width=90%, height=500>
+<img src='https://i.ibb.co/Rvr7yWn/download.png' alt='' width=90%, height=500>
+<img src='https://i.ibb.co/FKj4NNF/download.png' alt='' width=90%, height=500>
 </div>
 
 - [Fashion-MNIST with tf.Keras](https://blog.tensorflow.org/2018/04/fashion-mnist-with-tfkeras.html)
