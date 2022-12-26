@@ -1,13 +1,12 @@
-# DL-fashion_mnist1-Image-Classification-with-CNN-Project
-
 ### [Go to Projects Page](https://github.com/celik-muhammed/15CS-Deep-Learning-Case-Studies-with-Python/blob/master/README.md)
 
-## Visually Compare Models Performance In a Graph
+01. [DL Fashion MNIST Image Classification with CNN Project](./DL_Assignment_2_(Image_Classification_with_CNN)_Student.ipynb)
 
-01. [DL-fashion_mnist1-Image-Classification-with-CNN-Project](./DL_Assignment_2_(Image_Classification_with_CNN)_Student.ipynb)
-
+<br>
 <div align='center'>
 
+## Visually Compare Models Performance In a Graph
+    
 <img src='https://i.ibb.co/nwF33kw/download.png' alt='' width=60%, height=300>
 <br><br>
 <img src='https://i.ibb.co/wsqn2h7/download.png' alt='' width=95%, height=700>
