@@ -16,8 +16,8 @@
 <img src='https://i.ibb.co/FKj4NNF/download.png' alt='' width=90%, height=400>
 </div>
 
-- [Fashion-MNIST with tf.Keras](https://blog.tensorflow.org/2018/04/fashion-mnist-with-tfkeras.html)
 - [Fashion MNIST dataset, an alternative to MNIST](https://keras.io/api/datasets/fashion_mnist/)
+- [Fashion-MNIST with tf.Keras](https://blog.tensorflow.org/2018/04/fashion-mnist-with-tfkeras.html)
 
     - [Convolutional Neural Network (CNN)](https://www.tensorflow.org/tutorials/images/cnn)
     - [Image classification](https://www.tensorflow.org/tutorials/images/classification)
